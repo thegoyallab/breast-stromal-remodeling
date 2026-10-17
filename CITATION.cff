@@ -24,9 +24,9 @@ authors:
     given-names: Daniela
   - family-names: Goyal
     given-names: Pankaj
-repository-code: "TBD"
-url: "TBD"
+repository-code: "https://github.com/thegoyallab/breast-stromal-remodeling"
+url: "https://doi.org/10.5281/zenodo.23430481"
 identifiers:
   - type: doi
-    value: "TBD"
+    value: "10.5281/zenodo.23430481"
     description: "Permanent DOI for the archived v0.98 release"

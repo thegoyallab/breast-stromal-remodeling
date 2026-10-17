@@ -5,8 +5,8 @@
   "manuscript_title": "Reference-anchored decomposition of stromal redistribution and reprogramming in invasive breast cancer",
   "license": "BSD-3-Clause",
   "source": "Frozen reviewer-code archive from StageM24_EditorialFinalization_v0_98",
-  "public_repository_url": "TBD",
-  "archive_doi": "TBD",
+  "public_repository_url": "https://github.com/thegoyallab/breast-stromal-remodeling",
+  "archive_doi": "10.5281/zenodo.23430481",
   "omitted_public_files": [
     "M22_ClinicalTrialValidation/derived/GSE211434_Reed_state_mapping.tsv.gz",
     "M22_ClinicalTrialValidation/derived/BREAKFAST_Reed_state_mapping.tsv.gz"
