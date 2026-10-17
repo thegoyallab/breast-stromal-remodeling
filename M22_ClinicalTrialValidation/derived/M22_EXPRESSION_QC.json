@@ -1,0 +1,29 @@
+{
+  "count_cells": 251421,
+  "annotation_cells": 251421,
+  "cell_id_set_exact": true,
+  "target_genes_requested": 15,
+  "target_genes_found": 15,
+  "target_gene_availability": {
+    "ACTA2": true,
+    "COL1A1": true,
+    "COL1A2": true,
+    "COL3A1": true,
+    "COL4A1": true,
+    "COL4A2": true,
+    "COL5A1": true,
+    "COL5A2": true,
+    "FN1": true,
+    "ITGA1": true,
+    "ITGA11": true,
+    "JAG1": true,
+    "JAG2": true,
+    "NOTCH4": true,
+    "POSTN": true
+  },
+  "program_scoreability": {
+    "Fibroblasts": 1.0,
+    "Pericytes": 1.0,
+    "Endothelial cells": 1.0
+  }
+}

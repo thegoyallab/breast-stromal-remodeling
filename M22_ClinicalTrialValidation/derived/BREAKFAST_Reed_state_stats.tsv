@@ -1,0 +1,4 @@
+lineage	endpoint	n	median_balance_change	p	FDR	applicability_pass
+Endothelial	LE2_vs_LE1	10	0.3539158661214332	1.0	1.0	True
+Fibroblast	FB13_vs_FB24	10	0.1415505184412058	0.6953125	1.0	True
+Perivascular	PV3_vs_rest	10	-0.0882374267258408	0.4921875	1.0	True

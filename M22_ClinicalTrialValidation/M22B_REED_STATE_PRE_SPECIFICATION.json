@@ -1,0 +1,16 @@
+{
+  "stage":"M22B",
+  "date":"2026-10-16",
+  "status":"FROZEN_BEFORE_FELINE_REED_MAPPING",
+  "mapper":"frozen_Reed_historical_correlation_mapper",
+  "primary_endpoints":{
+    "Fibroblast":"log((FB1+FB3+0.5)/(FB2+FB4+0.5))",
+    "Perivascular":"log((PV3+0.5)/(PV1+PV2+PV4+PV5+0.5))",
+    "Endothelial":"log((LE2+0.5)/(LE1+0.5))"
+  },
+  "primary_threshold":20,
+  "sensitivity_threshold":10,
+  "contrasts":["D0_D14","D0_D180"],
+  "posthoc_state_endpoint_changes_allowed":false,
+  "mapper_sensitive_states_not_primary":["VEA","VEV","VEAT","VEC","PV4","PV5"]
+}

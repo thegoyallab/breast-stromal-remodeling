@@ -1,0 +1,17 @@
+{
+  "cohort": "GSE211434",
+  "cells_total": 251421,
+  "patients": 27,
+  "stromal_cells": {
+    "Fibroblasts": 39049,
+    "Pericytes": 5297,
+    "Endothelial cells": 14775
+  },
+  "threshold20": {
+    "Fibroblasts": {"D0_D14_pairs": 25, "D0_D180_pairs": 25, "D0_D14_response": 14, "D0_D14_nonresponse": 11, "D0_D180_response": 14, "D0_D180_nonresponse": 11},
+    "Pericytes": {"D0_D14_pairs": 20, "D0_D180_pairs": 18, "D0_D14_response": 13, "D0_D14_nonresponse": 7, "D0_D180_response": 11, "D0_D180_nonresponse": 7},
+    "Endothelial cells": {"D0_D14_pairs": 24, "D0_D180_pairs": 24, "D0_D14_response": 14, "D0_D14_nonresponse": 10, "D0_D180_response": 13, "D0_D180_nonresponse": 11}
+  },
+  "eligibility_decision": "PASS_PRIMARY_THRESHOLD_WITHOUT_RELAXATION",
+  "target_gene_expression_inspected_before_decision": false
+}

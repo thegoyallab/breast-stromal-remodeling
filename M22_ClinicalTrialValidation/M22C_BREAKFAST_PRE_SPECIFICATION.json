@@ -1,0 +1,17 @@
+{
+  "stage":"M22C",
+  "trial":"NCT04248998 BREAKFAST",
+  "resource":"GSE279219",
+  "status":"FROZEN_BEFORE_OUTCOME_ANALYSIS",
+  "complete_T0_T1_pairs":10,
+  "response_analysis_allowed":false,
+  "primary_threshold_cells":20,
+  "sensitivity_threshold_cells":10,
+  "endpoint_families":["broad_lineage_abundance","fixed_expression_programs","frozen_Reed_state_balances"],
+  "applicability_gates":{
+    "Fibroblast":{"max_corr":0.3168938385,"margin":0.00269698504},
+    "Endothelial":{"max_corr":0.3484501570,"margin":0.0020778835},
+    "Perivascular":{"max_corr":0.3765755535,"margin":0.003566771765}
+  },
+  "posthoc_optimization_allowed":false
+}

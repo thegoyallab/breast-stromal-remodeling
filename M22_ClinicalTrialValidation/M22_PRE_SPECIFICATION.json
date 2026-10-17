@@ -1,0 +1,18 @@
+{
+  "stage": "M22",
+  "date": "2026-10-16",
+  "cohort": "GSE211434 / FELINE / NCT02712723",
+  "status": "PRE_SPECIFIED_BEFORE_EXPRESSION_OUTCOME_ANALYSIS",
+  "scientific_parent_modified": false,
+  "primary_lineages": ["Fibroblasts","Pericytes","Endothelial"],
+  "primary_threshold_cells": 20,
+  "sensitivity_threshold_cells": 10,
+  "primary_time_contrasts": ["D0_vs_D14","D0_vs_D180"],
+  "primary_response_interaction": "SENSITIVE_vs_RESISTANT change",
+  "programs": {
+    "fibroblast_matrix_contractile": ["COL1A1","COL1A2","COL3A1","COL5A1","COL5A2","FN1","ACTA2","ITGA11","POSTN","JAG1"],
+    "mural_matrix_contractile": ["COL1A1","COL1A2","COL3A1","ACTA2","JAG1"],
+    "endothelial_NOTCH_ECM": ["JAG2","COL4A1","COL4A2","NOTCH4","ITGA1"]
+  },
+  "posthoc_gene_set_optimization_allowed": false
+}

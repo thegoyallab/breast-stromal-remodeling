@@ -1,0 +1,23 @@
+{
+  "reference_h5ad": "/mnt/stk35data/BreastCancer_Census_v1/Reference_Arms/Normal_Reference/HBCA_Reed_Lineages/HBCA_stroma_be35c935.h5ad",
+  "reference_sha256": "bf2b669fd3c478b06366f0e6638d2bc1fecb1daaba9403e758e38302ea5ba74f",
+  "fine_state_markers": "/mnt/stk35data/BreastCancer_Census_v1/Reference_Arms/Normal_Reference/Mapping_Benchmark/stroma_fine_v0_1/fine_state_markers.tsv",
+  "fine_state_markers_sha256": "d1eac8950cdb07586f3da688ce2c9e3b391b2423e01e7bac384bb7d73a4df58b",
+  "annotation_sha256": "7d1d0e05683ee9bb2bb79011a0bdbe03daecde4c0be9197fbaff74329367e51d",
+  "counts_sha256": "458cfb7bba95d766470c40fa7c70e1232d602217483ffc21930fe602e71f918a",
+  "frozen_common_markers": 1322,
+  "all_frozen_markers_present_in_GSE211434": true,
+  "query_stromal_cells": 59121,
+  "lineage_cells": {
+    "Fibroblasts": 39049,
+    "Endothelial cells": 14775,
+    "Pericytes": 5297
+  },
+  "centroid_audit": {
+    "n_marker_rows": 1728,
+    "rmse": 0.04496759471615792,
+    "max_abs_error": 0.3614661693572998
+  },
+  "response_or_treatment_used_for_mapping": false,
+  "source_total_count_field": "nCount_RNA"
+}

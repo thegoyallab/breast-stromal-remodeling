@@ -1,0 +1,16 @@
+{
+  "status": "M18_FINAL_SCIENTIFIC_GATE_PASS",
+  "n_pass": 28,
+  "n_fail": 0,
+  "parent": "StageM15F_FinalScientificFreeze_v0_1",
+  "extension": "StageM17A_VascularSpatialClinicalPhospho_v0_1",
+  "promoted": {
+    "myofibroblast_alphaSMA": true,
+    "CPTAC_phosphoproteomics": true
+  },
+  "not_promoted": {
+    "spatial_detachment": true,
+    "METABRIC_prognosis": true,
+    "mural_intrinsic_caveolin1": true
+  }
+}

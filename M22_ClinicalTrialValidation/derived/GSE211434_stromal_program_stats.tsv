@@ -1,0 +1,37 @@
+threshold	lineage	program	contrast	test_family	n	median_change	p	n_A	n_B	group_A	group_B	median_change_A	median_change_B	difference_medians	FDR	LOO_direction_robust
+20	Fibroblasts	fibroblast_matrix_contractile	D0_D14	paired_change	25	0.016273671997504957	0.1134914755821228								0.42871856689453125	True
+20	Fibroblasts	fibroblast_matrix_contractile	D0_D14	response_change	25		0.05196258362455934	14.0	11.0	Response	Non-response	-0.041308424135923255	0.4244868662807817	-0.465795290416705	0.17700167988315926	True
+20	Fibroblasts	fibroblast_matrix_contractile	D0_D14	treatment_change	25		0.5150082114768838	16.0	9.0	Combination ribociclib	Letrozole alone	-0.012308926972835768	0.2987822005963179	-0.31109112756915364	0.708831983861653	True
+20	Fibroblasts	fibroblast_matrix_contractile	D0_D180	paired_change	25	0.05463984141029038	0.5424043536186218								0.8136065304279327	True
+20	Fibroblasts	fibroblast_matrix_contractile	D0_D180	response_change	25		0.10631626930729829	14.0	11.0	Response	Non-response	-0.38648868318411284	0.23042960884115393	-0.6169182920252667	0.17700167988315926	True
+20	Fibroblasts	fibroblast_matrix_contractile	D0_D180	treatment_change	25		0.5906933198847109	16.0	9.0	Combination ribociclib	Letrozole alone	-0.11984370911401554	0.05463984141029038	-0.17448355052430592	0.708831983861653	True
+20	Pericytes	mural_matrix_contractile	D0_D14	paired_change	20	0.20318452242175206	0.14290618896484375								0.42871856689453125	True
+20	Pericytes	mural_matrix_contractile	D0_D14	response_change	20		0.08111455108359134	13.0	7.0	Response	Non-response	0.13823944736043647	0.7942411086117415	-0.656001661251305	0.17700167988315926	True
+20	Pericytes	mural_matrix_contractile	D0_D14	treatment_change	20		0.4854231166150671	13.0	7.0	Combination ribociclib	Letrozole alone	0.13823944736043647	0.5293484487284825	-0.39110900136804605	0.708831983861653	True
+20	Pericytes	mural_matrix_contractile	D0_D180	paired_change	18	-0.32433677721852827	0.7660293579101562								0.9192352294921875	True
+20	Pericytes	mural_matrix_contractile	D0_D180	response_change	18		0.12594268476621417	11.0	7.0	Response	Non-response	-0.3603682254163166	-0.1652464780806865	-0.1951217473356301	0.17700167988315926	True
+20	Pericytes	mural_matrix_contractile	D0_D180	treatment_change	18		0.9635854341736694	12.0	6.0	Combination ribociclib	Letrozole alone	-0.22881771091881623	-0.32433677721852827	0.09551906629971205	0.9635854341736693	True
+20	Endothelial cells	endothelial_NOTCH_ECM	D0_D14	paired_change	24	-0.14587036410146664	0.944107174873352								0.944107174873352	True
+20	Endothelial cells	endothelial_NOTCH_ECM	D0_D14	response_change	24		0.6186891374327621	14.0	10.0	Response	Non-response	-0.14587036410146664	0.013737135342191342	-0.15960749944365799	0.6186891374327621	True
+20	Endothelial cells	endothelial_NOTCH_ECM	D0_D14	treatment_change	24		0.23814127273543073	16.0	8.0	Combination ribociclib	Letrozole alone	0.03076085497532037	-0.35934700341937015	0.39010785839469053	0.708831983861653	True
+20	Endothelial cells	endothelial_NOTCH_ECM	D0_D180	paired_change	24	-0.1512082310296518	0.2405325174331665								0.481065034866333	True
+20	Endothelial cells	endothelial_NOTCH_ECM	D0_D180	response_change	24		0.14750139990263272	13.0	11.0	Response	Non-response	-0.3403328888452303	-0.07964700358669044	-0.26068588525853986	0.17700167988315926	True
+20	Endothelial cells	endothelial_NOTCH_ECM	D0_D180	treatment_change	24		0.5509849875850934	15.0	9.0	Combination ribociclib	Letrozole alone	-0.17409212265960183	-0.12832433939970178	-0.04576778325990005	0.708831983861653	True
+10	Fibroblasts	fibroblast_matrix_contractile	D0_D14	paired_change	26	0.03496301461917835	0.06688320636749268								0.40129923820495605	True
+10	Fibroblasts	fibroblast_matrix_contractile	D0_D14	response_change	26		0.042188009531505	14.0	12.0	Response	Non-response	-0.040263194210859846	0.4341399618319286	-0.47440315604278843	0.16127011492757798	True
+10	Fibroblasts	fibroblast_matrix_contractile	D0_D14	treatment_change	26		0.35635595702904566	16.0	10.0	Combination ribociclib	Letrozole alone	-0.006442140205736205	0.2958127014002503	-0.3022548416059865	0.5336354782196508	True
+10	Fibroblasts	fibroblast_matrix_contractile	D0_D180	paired_change	26	0.08799684913080985	0.9006587266921997								0.9664472341537476	True
+10	Fibroblasts	fibroblast_matrix_contractile	D0_D180	response_change	26		0.053756704975859326	14.0	12.0	Response	Non-response	-0.3364447855951682	0.23320289879337935	-0.5696476843885476	0.16127011492757798	True
+10	Fibroblasts	fibroblast_matrix_contractile	D0_D180	treatment_change	26		0.3845046293802694	16.0	10.0	Combination ribociclib	Letrozole alone	-0.08564430397485476	0.12185915039196538	-0.20750345436682013	0.5336354782196508	True
+10	Pericytes	mural_matrix_contractile	D0_D14	paired_change	23	0.12719330780102345	0.23447084426879883								0.7034125328063965	True
+10	Pericytes	mural_matrix_contractile	D0_D14	response_change	23		0.1965724219176238	14.0	9.0	Response	Non-response	0.10967648551649548	0.2756596453982234	-0.16598315988172793	0.23588690630114856	True
+10	Pericytes	mural_matrix_contractile	D0_D14	treatment_change	23		0.3759550002651363	16.0	7.0	Combination ribociclib	Letrozole alone	0.0945253192699442	0.49410712689276404	-0.3995818076228198	0.5336354782196508	True
+10	Pericytes	mural_matrix_contractile	D0_D180	paired_change	20	-0.29447928027736486	0.6742229461669922								0.9664472341537476	True
+10	Pericytes	mural_matrix_contractile	D0_D180	response_change	20		0.13480392156862744	13.0	7.0	Response	Non-response	-0.3160964987558236	-0.18487282871008592	-0.13122367004573765	0.2202785808041003	True
+10	Pericytes	mural_matrix_contractile	D0_D180	treatment_change	20		1.0	14.0	6.0	Combination ribociclib	Letrozole alone	-0.2073710888446049	-0.29447928027736486	0.08710819143275997	1.0	True
+10	Endothelial cells	endothelial_NOTCH_ECM	D0_D14	paired_change	24	-0.11278264971970366	0.9664472341537476								0.9664472341537476	True
+10	Endothelial cells	endothelial_NOTCH_ECM	D0_D14	response_change	24		0.5780310485673851	14.0	10.0	Response	Non-response	-0.13646689153960856	0.04118881361479228	-0.17765570515440082	0.5780310485673851	True
+10	Endothelial cells	endothelial_NOTCH_ECM	D0_D14	treatment_change	24		0.2635644369390499	16.0	8.0	Combination ribociclib	Letrozole alone	0.02171894746518066	-0.3075833486907866	0.32930229615596723	0.5336354782196508	True
+10	Endothelial cells	endothelial_NOTCH_ECM	D0_D180	paired_change	25	-0.0984026482541484	0.3525196313858032								0.7050392627716064	True
+10	Endothelial cells	endothelial_NOTCH_ECM	D0_D180	response_change	25		0.14685238720273353	14.0	11.0	Response	Non-response	-0.26025923897594516	0.038709051245833626	-0.2989682902217788	0.2202785808041003	True
+10	Endothelial cells	endothelial_NOTCH_ECM	D0_D180	treatment_change	25		0.4446962318497091	16.0	9.0	Combination ribociclib	Letrozole alone	0.008073065668570842	-0.17791927971715282	0.18599234538572368	0.5336354782196508	True

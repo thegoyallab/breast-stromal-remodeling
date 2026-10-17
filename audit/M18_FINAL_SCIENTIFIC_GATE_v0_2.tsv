@@ -1,0 +1,29 @@
+check	status	detail
+IMC_SMA_tumor_FDR	PASS	1.6779695461738298e-05
+IMC_SMA_DCIS_FDR	PASS	0.0052337743752286
+IMC_SMA_direct_FDR	PASS	0.2068344032480914
+IMC_CAV1_myo_not_supported	PASS	0.1532320334933757
+phospho_testable_sites	PASS	45
+phospho_adjusted_FDR05_sites	PASS	37
+phospho_sig_genes	PASS	12
+no_perivascular_gate_phrase	PASS	
+source_semantics_explicit	PASS	
+no_positive_phospho_activation_claim	PASS	
+phospho_caution_explicit	PASS	
+no_positive_detachment_or_survival_claim	PASS	
+CAV1_semantic_limit	PASS	
+supp_fig13	PASS	
+supp_table18	PASS	
+file_Figure5.pdf	PASS	33073
+file_Figure5.png	PASS	188378
+file_Figure5.svg	PASS	66456
+file_FigureS9.pdf	PASS	28317
+file_FigureS13.pdf	PASS	27497
+file_FigureS13.png	PASS	147891
+file_FigureS13.svg	PASS	32410
+file_TableS18_CPTAC_phosphoproteomic_module_v0_1.tsv	PASS	14937
+file_Figure5C_IMC_murallike_marker_tests_v0_1.tsv	PASS	2899
+TableS9_compartment_semantics	PASS	{'vessel_contacting_spatial_annotation': 45, 'mural_like_myofibroblast_phenotype': 15}
+M17_survival_gate_negative	PASS	0.9428009674984146
+M17_spatial_gate_negative	PASS	0.304280382645069
+controlled_parent_diff	PASS	old=14,new=18

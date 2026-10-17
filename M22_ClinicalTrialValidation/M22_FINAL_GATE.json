@@ -1,0 +1,25 @@
+{
+  "stage": "M22",
+  "date": "2026-10-16",
+  "status": "PASS_WITH_MIXED_BOUNDARY_RESULT",
+  "parent_submission_package": "AtlasExpansion_PreSubmissionIntegrity_20261016_v0_97",
+  "parent_package_modified": false,
+  "cohorts_analyzed": [
+    "GSE211434/FELINE",
+    "GSE279219/BREAKFAST"
+  ],
+  "cohort_selection_based_on_outcomes": false,
+  "headline_positive_findings": [
+    "FELINE broad endothelial D0-D180 abundance increase: FDR 0.0107"
+  ],
+  "negative_or_boundary_findings": [
+    "No FELINE fixed stromal program passed FDR",
+    "No FELINE response-associated stromal change passed FDR",
+    "FELINE Reed fine-state mapping failed reference-domain applicability and is not interpreted",
+    "BREAKFAST passed Reed applicability in all three lineages but no prespecified abundance/program/state endpoint passed FDR"
+  ],
+  "recommended_manuscript_role": "bounded supplementary longitudinal stress test",
+  "title_change_recommended": false,
+  "abstract_change_recommended": false,
+  "main_claim_changed": false
+}

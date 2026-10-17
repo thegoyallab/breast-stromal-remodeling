@@ -1,0 +1,50 @@
+{
+  "paired_patients": 10,
+  "paired_samples": 20,
+  "target_cells": 63769,
+  "target_lineage_cells": {
+    "Fibroblast": 47532,
+    "Endothelial": 10406,
+    "Perivascular": 5831
+  },
+  "frozen_common_markers": 1322,
+  "all_frozen_markers_present": true,
+  "applicability": [
+    {
+      "lineage": "Endothelial",
+      "n_cells": 10406,
+      "median_max_corr": 0.523276299238205,
+      "max_corr_gate": 0.348450157,
+      "median_margin": 0.025663331151008606,
+      "margin_gate": 0.0020778835,
+      "applicability_pass": true
+    },
+    {
+      "lineage": "Fibroblast",
+      "n_cells": 47532,
+      "median_max_corr": 0.5457732379436493,
+      "max_corr_gate": 0.3168938385,
+      "median_margin": 0.029672205448150635,
+      "margin_gate": 0.00269698504,
+      "applicability_pass": true
+    },
+    {
+      "lineage": "Perivascular",
+      "n_cells": 5831,
+      "median_max_corr": 0.528493344783783,
+      "max_corr_gate": 0.3765755535,
+      "median_margin": 0.02261263132095337,
+      "margin_gate": 0.003566771765,
+      "applicability_pass": true
+    }
+  ],
+  "response_analysis_performed": false,
+  "inputs": {
+    "query_h5ad_sha256": "9c61bd35506d704e70cdb329ff61e95f43e519353c825084150b060c096d5949",
+    "lineage_sha256": "93366c5cb2dcc075b17441a6532204cfe2416857d776c16104ee42e240b09557",
+    "crosswalk_sha256": "87c7ea2b8a242446a0e6489a0d7e3231166f01f9a72df1e38ec9f339983056e8",
+    "feature_sha256": "40ee0dd2fec87f933cce646a33869d6fbfa8b43f49c3fec6e020f0965c2877e1",
+    "Reed_sha256": "bf2b669fd3c478b06366f0e6638d2bc1fecb1daaba9403e758e38302ea5ba74f",
+    "marker_sha256": "d1eac8950cdb07586f3da688ce2c9e3b391b2423e01e7bac384bb7d73a4df58b"
+  }
+}

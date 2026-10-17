@@ -1,0 +1,20 @@
+               contrast n_normal n_primary genes_tested spearman_logFC
+FB1plusFB3   FB1plusFB3       13        30         5157      0.9926406
+PV3                 PV3        6        10         1254      0.9932145
+VEAT               VEAT       13         5         6102      0.9892374
+VEATplusVEC VEATplusVEC       13        15         5652      0.9932580
+            pearson_logFC direction_concordance_all
+FB1plusFB3      0.9888569                 0.9749855
+PV3             0.9941070                 0.9864434
+VEAT            0.9715455                 0.9608325
+VEATplusVEC     0.9906977                 0.9635527
+            direction_concordance_unionFDR05 edgeR_FDR05 voom_FDR05 both_FDR05
+FB1plusFB3                         0.9997407        3714       3745       3603
+PV3                                1.0000000         800        815        776
+VEAT                               1.0000000        2838       2388       2334
+VEATplusVEC                        1.0000000        3279       3237       3098
+            edgeR_only_FDR05 voom_only_FDR05 jaccard_FDR05
+FB1plusFB3               111             142     0.9343880
+PV3                       24              39     0.9249106
+VEAT                     504              54     0.8070539
+VEATplusVEC              181             139     0.9063780

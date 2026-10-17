@@ -1,0 +1,707 @@
+Patient	Day	Treatment	TreatmentArm	Response	ResponseYN	CellType	n_cells
+P048	0	Combination ribociclib	C	Stable disease	Non-response	Adipocytes	5
+P048	0	Combination ribociclib	C	Stable disease	Non-response	B cells	83
+P048	0	Combination ribociclib	C	Stable disease	Non-response	Cancer cells	2682
+P048	0	Combination ribociclib	C	Stable disease	Non-response	Endothelial cells	70
+P048	0	Combination ribociclib	C	Stable disease	Non-response	Fibroblasts	269
+P048	0	Combination ribociclib	C	Stable disease	Non-response	Macrophages	284
+P048	0	Combination ribociclib	C	Stable disease	Non-response	Normal epithelial cells	148
+P048	0	Combination ribociclib	C	Stable disease	Non-response	Pericytes	24
+P048	0	Combination ribociclib	C	Stable disease	Non-response	T cells	267
+P048	14	Combination ribociclib	C	Stable disease	Non-response	B cells	65
+P048	14	Combination ribociclib	C	Stable disease	Non-response	Cancer cells	2173
+P048	14	Combination ribociclib	C	Stable disease	Non-response	Endothelial cells	30
+P048	14	Combination ribociclib	C	Stable disease	Non-response	Fibroblasts	591
+P048	14	Combination ribociclib	C	Stable disease	Non-response	Macrophages	246
+P048	14	Combination ribociclib	C	Stable disease	Non-response	Normal epithelial cells	46
+P048	14	Combination ribociclib	C	Stable disease	Non-response	Pericytes	18
+P048	14	Combination ribociclib	C	Stable disease	Non-response	T cells	93
+P048	180	Combination ribociclib	C	Stable disease	Non-response	Adipocytes	7
+P048	180	Combination ribociclib	C	Stable disease	Non-response	B cells	72
+P048	180	Combination ribociclib	C	Stable disease	Non-response	Cancer cells	2687
+P048	180	Combination ribociclib	C	Stable disease	Non-response	Endothelial cells	133
+P048	180	Combination ribociclib	C	Stable disease	Non-response	Fibroblasts	461
+P048	180	Combination ribociclib	C	Stable disease	Non-response	Macrophages	130
+P048	180	Combination ribociclib	C	Stable disease	Non-response	Normal epithelial cells	1301
+P048	180	Combination ribociclib	C	Stable disease	Non-response	Pericytes	39
+P048	180	Combination ribociclib	C	Stable disease	Non-response	T cells	68
+P049	0	Combination ribociclib	C	Stable disease	Non-response	B cells	11
+P049	0	Combination ribociclib	C	Stable disease	Non-response	Cancer cells	2269
+P049	0	Combination ribociclib	C	Stable disease	Non-response	Endothelial cells	85
+P049	0	Combination ribociclib	C	Stable disease	Non-response	Fibroblasts	647
+P049	0	Combination ribociclib	C	Stable disease	Non-response	Macrophages	98
+P049	0	Combination ribociclib	C	Stable disease	Non-response	Normal epithelial cells	334
+P049	0	Combination ribociclib	C	Stable disease	Non-response	Pericytes	24
+P049	0	Combination ribociclib	C	Stable disease	Non-response	T cells	35
+P049	14	Combination ribociclib	C	Stable disease	Non-response	Adipocytes	37
+P049	14	Combination ribociclib	C	Stable disease	Non-response	B cells	1
+P049	14	Combination ribociclib	C	Stable disease	Non-response	Cancer cells	223
+P049	14	Combination ribociclib	C	Stable disease	Non-response	Endothelial cells	34
+P049	14	Combination ribociclib	C	Stable disease	Non-response	Fibroblasts	251
+P049	14	Combination ribociclib	C	Stable disease	Non-response	Macrophages	41
+P049	14	Combination ribociclib	C	Stable disease	Non-response	Normal epithelial cells	28
+P049	14	Combination ribociclib	C	Stable disease	Non-response	Pericytes	13
+P049	14	Combination ribociclib	C	Stable disease	Non-response	T cells	20
+P049	180	Combination ribociclib	C	Stable disease	Non-response	B cells	1
+P049	180	Combination ribociclib	C	Stable disease	Non-response	Cancer cells	114
+P049	180	Combination ribociclib	C	Stable disease	Non-response	Endothelial cells	46
+P049	180	Combination ribociclib	C	Stable disease	Non-response	Fibroblasts	22
+P049	180	Combination ribociclib	C	Stable disease	Non-response	Macrophages	2
+P049	180	Combination ribociclib	C	Stable disease	Non-response	Normal epithelial cells	417
+P049	180	Combination ribociclib	C	Stable disease	Non-response	Pericytes	3
+P049	180	Combination ribociclib	C	Stable disease	Non-response	T cells	3
+P051	0	Combination ribociclib	B	Partial response	Response	B cells	74
+P051	0	Combination ribociclib	B	Partial response	Response	Cancer cells	1277
+P051	0	Combination ribociclib	B	Partial response	Response	Endothelial cells	63
+P051	0	Combination ribociclib	B	Partial response	Response	Fibroblasts	614
+P051	0	Combination ribociclib	B	Partial response	Response	Macrophages	261
+P051	0	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	30
+P051	0	Combination ribociclib	B	Partial response	Response	Pericytes	51
+P051	0	Combination ribociclib	B	Partial response	Response	T cells	217
+P051	14	Combination ribociclib	B	Partial response	Response	Adipocytes	7
+P051	14	Combination ribociclib	B	Partial response	Response	B cells	18
+P051	14	Combination ribociclib	B	Partial response	Response	Cancer cells	4903
+P051	14	Combination ribociclib	B	Partial response	Response	Endothelial cells	244
+P051	14	Combination ribociclib	B	Partial response	Response	Fibroblasts	640
+P051	14	Combination ribociclib	B	Partial response	Response	Macrophages	192
+P051	14	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	201
+P051	14	Combination ribociclib	B	Partial response	Response	Pericytes	54
+P051	14	Combination ribociclib	B	Partial response	Response	T cells	87
+P051	180	Combination ribociclib	B	Partial response	Response	Adipocytes	13
+P051	180	Combination ribociclib	B	Partial response	Response	B cells	14
+P051	180	Combination ribociclib	B	Partial response	Response	Cancer cells	1727
+P051	180	Combination ribociclib	B	Partial response	Response	Endothelial cells	68
+P051	180	Combination ribociclib	B	Partial response	Response	Fibroblasts	599
+P051	180	Combination ribociclib	B	Partial response	Response	Macrophages	244
+P051	180	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	32
+P051	180	Combination ribociclib	B	Partial response	Response	Pericytes	16
+P051	180	Combination ribociclib	B	Partial response	Response	T cells	79
+P053	0	Combination ribociclib	C	Sustained response	Response	Adipocytes	190
+P053	0	Combination ribociclib	C	Sustained response	Response	B cells	452
+P053	0	Combination ribociclib	C	Sustained response	Response	Cancer cells	1062
+P053	0	Combination ribociclib	C	Sustained response	Response	Endothelial cells	130
+P053	0	Combination ribociclib	C	Sustained response	Response	Fibroblasts	880
+P053	0	Combination ribociclib	C	Sustained response	Response	Macrophages	372
+P053	0	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	153
+P053	0	Combination ribociclib	C	Sustained response	Response	Pericytes	52
+P053	0	Combination ribociclib	C	Sustained response	Response	T cells	561
+P053	14	Combination ribociclib	C	Sustained response	Response	Adipocytes	209
+P053	14	Combination ribociclib	C	Sustained response	Response	B cells	337
+P053	14	Combination ribociclib	C	Sustained response	Response	Cancer cells	256
+P053	14	Combination ribociclib	C	Sustained response	Response	Endothelial cells	338
+P053	14	Combination ribociclib	C	Sustained response	Response	Fibroblasts	1402
+P053	14	Combination ribociclib	C	Sustained response	Response	Macrophages	146
+P053	14	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	694
+P053	14	Combination ribociclib	C	Sustained response	Response	Pericytes	136
+P053	14	Combination ribociclib	C	Sustained response	Response	T cells	416
+P053	180	Combination ribociclib	C	Sustained response	Response	Adipocytes	307
+P053	180	Combination ribociclib	C	Sustained response	Response	B cells	147
+P053	180	Combination ribociclib	C	Sustained response	Response	Cancer cells	2004
+P053	180	Combination ribociclib	C	Sustained response	Response	Endothelial cells	143
+P053	180	Combination ribociclib	C	Sustained response	Response	Fibroblasts	984
+P053	180	Combination ribociclib	C	Sustained response	Response	Macrophages	206
+P053	180	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	151
+P053	180	Combination ribociclib	C	Sustained response	Response	Pericytes	77
+P053	180	Combination ribociclib	C	Sustained response	Response	T cells	172
+P058	0	Combination ribociclib	C	Sustained response	Response	Adipocytes	5
+P058	0	Combination ribociclib	C	Sustained response	Response	B cells	37
+P058	0	Combination ribociclib	C	Sustained response	Response	Cancer cells	3964
+P058	0	Combination ribociclib	C	Sustained response	Response	Endothelial cells	294
+P058	0	Combination ribociclib	C	Sustained response	Response	Fibroblasts	1176
+P058	0	Combination ribociclib	C	Sustained response	Response	Macrophages	272
+P058	0	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	249
+P058	0	Combination ribociclib	C	Sustained response	Response	Pericytes	119
+P058	0	Combination ribociclib	C	Sustained response	Response	T cells	247
+P058	14	Combination ribociclib	C	Sustained response	Response	Adipocytes	34
+P058	14	Combination ribociclib	C	Sustained response	Response	B cells	63
+P058	14	Combination ribociclib	C	Sustained response	Response	Cancer cells	3940
+P058	14	Combination ribociclib	C	Sustained response	Response	Endothelial cells	211
+P058	14	Combination ribociclib	C	Sustained response	Response	Fibroblasts	780
+P058	14	Combination ribociclib	C	Sustained response	Response	Macrophages	338
+P058	14	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	445
+P058	14	Combination ribociclib	C	Sustained response	Response	Pericytes	93
+P058	14	Combination ribociclib	C	Sustained response	Response	T cells	591
+P058	180	Combination ribociclib	C	Sustained response	Response	Adipocytes	129
+P058	180	Combination ribociclib	C	Sustained response	Response	B cells	44
+P058	180	Combination ribociclib	C	Sustained response	Response	Cancer cells	2746
+P058	180	Combination ribociclib	C	Sustained response	Response	Endothelial cells	383
+P058	180	Combination ribociclib	C	Sustained response	Response	Fibroblasts	405
+P058	180	Combination ribociclib	C	Sustained response	Response	Macrophages	515
+P058	180	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	627
+P058	180	Combination ribociclib	C	Sustained response	Response	Pericytes	48
+P058	180	Combination ribociclib	C	Sustained response	Response	T cells	164
+P059	0	Combination ribociclib	C	Partial response	Response	Adipocytes	5
+P059	0	Combination ribociclib	C	Partial response	Response	B cells	69
+P059	0	Combination ribociclib	C	Partial response	Response	Cancer cells	2462
+P059	0	Combination ribociclib	C	Partial response	Response	Endothelial cells	36
+P059	0	Combination ribociclib	C	Partial response	Response	Fibroblasts	209
+P059	0	Combination ribociclib	C	Partial response	Response	Macrophages	80
+P059	0	Combination ribociclib	C	Partial response	Response	Normal epithelial cells	789
+P059	0	Combination ribociclib	C	Partial response	Response	Pericytes	36
+P059	0	Combination ribociclib	C	Partial response	Response	T cells	137
+P059	14	Combination ribociclib	C	Partial response	Response	Adipocytes	15
+P059	14	Combination ribociclib	C	Partial response	Response	B cells	116
+P059	14	Combination ribociclib	C	Partial response	Response	Cancer cells	407
+P059	14	Combination ribociclib	C	Partial response	Response	Endothelial cells	231
+P059	14	Combination ribociclib	C	Partial response	Response	Fibroblasts	485
+P059	14	Combination ribociclib	C	Partial response	Response	Macrophages	114
+P059	14	Combination ribociclib	C	Partial response	Response	Normal epithelial cells	448
+P059	14	Combination ribociclib	C	Partial response	Response	Pericytes	68
+P059	14	Combination ribociclib	C	Partial response	Response	T cells	67
+P059	180	Combination ribociclib	C	Partial response	Response	Adipocytes	7
+P059	180	Combination ribociclib	C	Partial response	Response	B cells	1
+P059	180	Combination ribociclib	C	Partial response	Response	Cancer cells	327
+P059	180	Combination ribociclib	C	Partial response	Response	Endothelial cells	16
+P059	180	Combination ribociclib	C	Partial response	Response	Fibroblasts	69
+P059	180	Combination ribociclib	C	Partial response	Response	Macrophages	9
+P059	180	Combination ribociclib	C	Partial response	Response	Normal epithelial cells	44
+P059	180	Combination ribociclib	C	Partial response	Response	Pericytes	4
+P059	180	Combination ribociclib	C	Partial response	Response	T cells	5
+P060	0	Letrozole alone	A	Stable disease	Non-response	Adipocytes	1
+P060	0	Letrozole alone	A	Stable disease	Non-response	B cells	2
+P060	0	Letrozole alone	A	Stable disease	Non-response	Cancer cells	1630
+P060	0	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	239
+P060	0	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	307
+P060	0	Letrozole alone	A	Stable disease	Non-response	Macrophages	17
+P060	0	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	100
+P060	0	Letrozole alone	A	Stable disease	Non-response	Pericytes	88
+P060	0	Letrozole alone	A	Stable disease	Non-response	T cells	10
+P060	14	Letrozole alone	A	Stable disease	Non-response	B cells	30
+P060	14	Letrozole alone	A	Stable disease	Non-response	Cancer cells	221
+P060	14	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	53
+P060	14	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	504
+P060	14	Letrozole alone	A	Stable disease	Non-response	Macrophages	943
+P060	14	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	7
+P060	14	Letrozole alone	A	Stable disease	Non-response	Pericytes	47
+P060	14	Letrozole alone	A	Stable disease	Non-response	T cells	68
+P060	180	Letrozole alone	A	Stable disease	Non-response	Adipocytes	1
+P060	180	Letrozole alone	A	Stable disease	Non-response	B cells	7
+P060	180	Letrozole alone	A	Stable disease	Non-response	Cancer cells	641
+P060	180	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	49
+P060	180	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	192
+P060	180	Letrozole alone	A	Stable disease	Non-response	Macrophages	35
+P060	180	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	29
+P060	180	Letrozole alone	A	Stable disease	Non-response	Pericytes	7
+P060	180	Letrozole alone	A	Stable disease	Non-response	T cells	18
+P062	0	Letrozole alone	A	Stable disease	Non-response	Adipocytes	8
+P062	0	Letrozole alone	A	Stable disease	Non-response	B cells	24
+P062	0	Letrozole alone	A	Stable disease	Non-response	Cancer cells	251
+P062	0	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	71
+P062	0	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	140
+P062	0	Letrozole alone	A	Stable disease	Non-response	Macrophages	102
+P062	0	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	204
+P062	0	Letrozole alone	A	Stable disease	Non-response	Pericytes	9
+P062	0	Letrozole alone	A	Stable disease	Non-response	T cells	27
+P062	14	Letrozole alone	A	Stable disease	Non-response	Adipocytes	23
+P062	14	Letrozole alone	A	Stable disease	Non-response	B cells	39
+P062	14	Letrozole alone	A	Stable disease	Non-response	Cancer cells	1351
+P062	14	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	75
+P062	14	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	518
+P062	14	Letrozole alone	A	Stable disease	Non-response	Macrophages	134
+P062	14	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	43
+P062	14	Letrozole alone	A	Stable disease	Non-response	Pericytes	28
+P062	14	Letrozole alone	A	Stable disease	Non-response	T cells	116
+P062	180	Letrozole alone	A	Stable disease	Non-response	Adipocytes	57
+P062	180	Letrozole alone	A	Stable disease	Non-response	B cells	45
+P062	180	Letrozole alone	A	Stable disease	Non-response	Cancer cells	1101
+P062	180	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	111
+P062	180	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	469
+P062	180	Letrozole alone	A	Stable disease	Non-response	Macrophages	157
+P062	180	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	49
+P062	180	Letrozole alone	A	Stable disease	Non-response	Pericytes	43
+P062	180	Letrozole alone	A	Stable disease	Non-response	T cells	197
+P063	0	Letrozole alone	A	Stable disease	Non-response	Adipocytes	51
+P063	0	Letrozole alone	A	Stable disease	Non-response	B cells	6
+P063	0	Letrozole alone	A	Stable disease	Non-response	Cancer cells	1603
+P063	0	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	79
+P063	0	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	640
+P063	0	Letrozole alone	A	Stable disease	Non-response	Macrophages	123
+P063	0	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	11
+P063	0	Letrozole alone	A	Stable disease	Non-response	Pericytes	34
+P063	0	Letrozole alone	A	Stable disease	Non-response	T cells	24
+P063	14	Letrozole alone	A	Stable disease	Non-response	Adipocytes	62
+P063	14	Letrozole alone	A	Stable disease	Non-response	B cells	6
+P063	14	Letrozole alone	A	Stable disease	Non-response	Cancer cells	484
+P063	14	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	86
+P063	14	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	526
+P063	14	Letrozole alone	A	Stable disease	Non-response	Macrophages	313
+P063	14	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	24
+P063	14	Letrozole alone	A	Stable disease	Non-response	Pericytes	37
+P063	14	Letrozole alone	A	Stable disease	Non-response	T cells	8
+P063	180	Letrozole alone	A	Stable disease	Non-response	Adipocytes	56
+P063	180	Letrozole alone	A	Stable disease	Non-response	B cells	7
+P063	180	Letrozole alone	A	Stable disease	Non-response	Cancer cells	248
+P063	180	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	76
+P063	180	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	113
+P063	180	Letrozole alone	A	Stable disease	Non-response	Macrophages	172
+P063	180	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	787
+P063	180	Letrozole alone	A	Stable disease	Non-response	Pericytes	9
+P063	180	Letrozole alone	A	Stable disease	Non-response	T cells	18
+P068	0	Combination ribociclib	B	Stable disease	Non-response	Adipocytes	7
+P068	0	Combination ribociclib	B	Stable disease	Non-response	Cancer cells	1226
+P068	0	Combination ribociclib	B	Stable disease	Non-response	Endothelial cells	37
+P068	0	Combination ribociclib	B	Stable disease	Non-response	Fibroblasts	22
+P068	0	Combination ribociclib	B	Stable disease	Non-response	Macrophages	15
+P068	0	Combination ribociclib	B	Stable disease	Non-response	Normal epithelial cells	206
+P068	0	Combination ribociclib	B	Stable disease	Non-response	Pericytes	23
+P068	0	Combination ribociclib	B	Stable disease	Non-response	T cells	14
+P068	14	Combination ribociclib	B	Stable disease	Non-response	Adipocytes	4
+P068	14	Combination ribociclib	B	Stable disease	Non-response	B cells	1
+P068	14	Combination ribociclib	B	Stable disease	Non-response	Cancer cells	2036
+P068	14	Combination ribociclib	B	Stable disease	Non-response	Endothelial cells	97
+P068	14	Combination ribociclib	B	Stable disease	Non-response	Fibroblasts	62
+P068	14	Combination ribociclib	B	Stable disease	Non-response	Macrophages	66
+P068	14	Combination ribociclib	B	Stable disease	Non-response	Normal epithelial cells	190
+P068	14	Combination ribociclib	B	Stable disease	Non-response	Pericytes	27
+P068	14	Combination ribociclib	B	Stable disease	Non-response	T cells	47
+P068	180	Combination ribociclib	B	Stable disease	Non-response	B cells	1
+P068	180	Combination ribociclib	B	Stable disease	Non-response	Cancer cells	1759
+P068	180	Combination ribociclib	B	Stable disease	Non-response	Endothelial cells	85
+P068	180	Combination ribociclib	B	Stable disease	Non-response	Fibroblasts	70
+P068	180	Combination ribociclib	B	Stable disease	Non-response	Macrophages	48
+P068	180	Combination ribociclib	B	Stable disease	Non-response	Normal epithelial cells	330
+P068	180	Combination ribociclib	B	Stable disease	Non-response	Pericytes	27
+P068	180	Combination ribociclib	B	Stable disease	Non-response	T cells	39
+P072	0	Combination ribociclib	B	Sustained response	Response	Adipocytes	66
+P072	0	Combination ribociclib	B	Sustained response	Response	B cells	91
+P072	0	Combination ribociclib	B	Sustained response	Response	Cancer cells	1565
+P072	0	Combination ribociclib	B	Sustained response	Response	Endothelial cells	120
+P072	0	Combination ribociclib	B	Sustained response	Response	Fibroblasts	511
+P072	0	Combination ribociclib	B	Sustained response	Response	Macrophages	359
+P072	0	Combination ribociclib	B	Sustained response	Response	Normal epithelial cells	24
+P072	0	Combination ribociclib	B	Sustained response	Response	Pericytes	50
+P072	0	Combination ribociclib	B	Sustained response	Response	T cells	448
+P072	14	Combination ribociclib	B	Sustained response	Response	Cancer cells	1261
+P072	14	Combination ribociclib	B	Sustained response	Response	Endothelial cells	140
+P072	14	Combination ribociclib	B	Sustained response	Response	Fibroblasts	199
+P072	14	Combination ribociclib	B	Sustained response	Response	Macrophages	91
+P072	14	Combination ribociclib	B	Sustained response	Response	Normal epithelial cells	32
+P072	14	Combination ribociclib	B	Sustained response	Response	Pericytes	27
+P072	14	Combination ribociclib	B	Sustained response	Response	T cells	18
+P072	180	Combination ribociclib	B	Sustained response	Response	Adipocytes	10
+P072	180	Combination ribociclib	B	Sustained response	Response	B cells	7
+P072	180	Combination ribociclib	B	Sustained response	Response	Cancer cells	368
+P072	180	Combination ribociclib	B	Sustained response	Response	Endothelial cells	177
+P072	180	Combination ribociclib	B	Sustained response	Response	Fibroblasts	262
+P072	180	Combination ribociclib	B	Sustained response	Response	Macrophages	56
+P072	180	Combination ribociclib	B	Sustained response	Response	Normal epithelial cells	9
+P072	180	Combination ribociclib	B	Sustained response	Response	Pericytes	61
+P072	180	Combination ribociclib	B	Sustained response	Response	T cells	11
+P074	0	Combination ribociclib	B	Partial response	Response	Adipocytes	652
+P074	0	Combination ribociclib	B	Partial response	Response	B cells	14
+P074	0	Combination ribociclib	B	Partial response	Response	Cancer cells	2511
+P074	0	Combination ribociclib	B	Partial response	Response	Endothelial cells	376
+P074	0	Combination ribociclib	B	Partial response	Response	Fibroblasts	598
+P074	0	Combination ribociclib	B	Partial response	Response	Macrophages	133
+P074	0	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	77
+P074	0	Combination ribociclib	B	Partial response	Response	Pericytes	148
+P074	0	Combination ribociclib	B	Partial response	Response	T cells	77
+P074	14	Combination ribociclib	B	Partial response	Response	Adipocytes	211
+P074	14	Combination ribociclib	B	Partial response	Response	B cells	3
+P074	14	Combination ribociclib	B	Partial response	Response	Cancer cells	1206
+P074	14	Combination ribociclib	B	Partial response	Response	Endothelial cells	175
+P074	14	Combination ribociclib	B	Partial response	Response	Fibroblasts	139
+P074	14	Combination ribociclib	B	Partial response	Response	Macrophages	10
+P074	14	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	49
+P074	14	Combination ribociclib	B	Partial response	Response	Pericytes	51
+P074	14	Combination ribociclib	B	Partial response	Response	T cells	4
+P074	180	Combination ribociclib	B	Partial response	Response	Adipocytes	749
+P074	180	Combination ribociclib	B	Partial response	Response	B cells	11
+P074	180	Combination ribociclib	B	Partial response	Response	Cancer cells	71
+P074	180	Combination ribociclib	B	Partial response	Response	Endothelial cells	96
+P074	180	Combination ribociclib	B	Partial response	Response	Fibroblasts	163
+P074	180	Combination ribociclib	B	Partial response	Response	Macrophages	39
+P074	180	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	317
+P074	180	Combination ribociclib	B	Partial response	Response	Pericytes	42
+P074	180	Combination ribociclib	B	Partial response	Response	T cells	16
+P075	0	Combination ribociclib	C	Sustained response	Response	Adipocytes	30
+P075	0	Combination ribociclib	C	Sustained response	Response	B cells	18
+P075	0	Combination ribociclib	C	Sustained response	Response	Cancer cells	131
+P075	0	Combination ribociclib	C	Sustained response	Response	Endothelial cells	208
+P075	0	Combination ribociclib	C	Sustained response	Response	Fibroblasts	351
+P075	0	Combination ribociclib	C	Sustained response	Response	Macrophages	86
+P075	0	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	1360
+P075	0	Combination ribociclib	C	Sustained response	Response	Pericytes	76
+P075	0	Combination ribociclib	C	Sustained response	Response	T cells	57
+P075	14	Combination ribociclib	C	Sustained response	Response	Adipocytes	5
+P075	14	Combination ribociclib	C	Sustained response	Response	B cells	17
+P075	14	Combination ribociclib	C	Sustained response	Response	Cancer cells	2662
+P075	14	Combination ribociclib	C	Sustained response	Response	Endothelial cells	70
+P075	14	Combination ribociclib	C	Sustained response	Response	Fibroblasts	928
+P075	14	Combination ribociclib	C	Sustained response	Response	Macrophages	100
+P075	14	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	97
+P075	14	Combination ribociclib	C	Sustained response	Response	Pericytes	36
+P075	14	Combination ribociclib	C	Sustained response	Response	T cells	35
+P075	180	Combination ribociclib	C	Sustained response	Response	Adipocytes	83
+P075	180	Combination ribociclib	C	Sustained response	Response	B cells	167
+P075	180	Combination ribociclib	C	Sustained response	Response	Cancer cells	1686
+P075	180	Combination ribociclib	C	Sustained response	Response	Endothelial cells	160
+P075	180	Combination ribociclib	C	Sustained response	Response	Fibroblasts	258
+P075	180	Combination ribociclib	C	Sustained response	Response	Macrophages	222
+P075	180	Combination ribociclib	C	Sustained response	Response	Normal epithelial cells	669
+P075	180	Combination ribociclib	C	Sustained response	Response	Pericytes	15
+P075	180	Combination ribociclib	C	Sustained response	Response	T cells	184
+P078	0	Combination ribociclib	B	Stable disease	Non-response	Adipocytes	267
+P078	0	Combination ribociclib	B	Stable disease	Non-response	B cells	377
+P078	0	Combination ribociclib	B	Stable disease	Non-response	Cancer cells	84
+P078	0	Combination ribociclib	B	Stable disease	Non-response	Endothelial cells	204
+P078	0	Combination ribociclib	B	Stable disease	Non-response	Fibroblasts	474
+P078	0	Combination ribociclib	B	Stable disease	Non-response	Macrophages	450
+P078	0	Combination ribociclib	B	Stable disease	Non-response	Normal epithelial cells	13
+P078	0	Combination ribociclib	B	Stable disease	Non-response	Pericytes	94
+P078	0	Combination ribociclib	B	Stable disease	Non-response	T cells	883
+P078	14	Combination ribociclib	B	Stable disease	Non-response	Adipocytes	85
+P078	14	Combination ribociclib	B	Stable disease	Non-response	B cells	273
+P078	14	Combination ribociclib	B	Stable disease	Non-response	Cancer cells	1089
+P078	14	Combination ribociclib	B	Stable disease	Non-response	Endothelial cells	502
+P078	14	Combination ribociclib	B	Stable disease	Non-response	Fibroblasts	707
+P078	14	Combination ribociclib	B	Stable disease	Non-response	Macrophages	599
+P078	14	Combination ribociclib	B	Stable disease	Non-response	Normal epithelial cells	14
+P078	14	Combination ribociclib	B	Stable disease	Non-response	Pericytes	151
+P078	14	Combination ribociclib	B	Stable disease	Non-response	T cells	571
+P078	180	Combination ribociclib	B	Stable disease	Non-response	Adipocytes	280
+P078	180	Combination ribociclib	B	Stable disease	Non-response	B cells	154
+P078	180	Combination ribociclib	B	Stable disease	Non-response	Cancer cells	314
+P078	180	Combination ribociclib	B	Stable disease	Non-response	Endothelial cells	413
+P078	180	Combination ribociclib	B	Stable disease	Non-response	Fibroblasts	652
+P078	180	Combination ribociclib	B	Stable disease	Non-response	Macrophages	148
+P078	180	Combination ribociclib	B	Stable disease	Non-response	Normal epithelial cells	14
+P078	180	Combination ribociclib	B	Stable disease	Non-response	Pericytes	109
+P078	180	Combination ribociclib	B	Stable disease	Non-response	T cells	226
+P079	0	Letrozole alone	A	Stable disease	Non-response	B cells	13
+P079	0	Letrozole alone	A	Stable disease	Non-response	Cancer cells	2184
+P079	0	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	2
+P079	0	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	11
+P079	0	Letrozole alone	A	Stable disease	Non-response	Macrophages	32
+P079	0	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	298
+P079	0	Letrozole alone	A	Stable disease	Non-response	Pericytes	1
+P079	0	Letrozole alone	A	Stable disease	Non-response	T cells	79
+P079	14	Letrozole alone	A	Stable disease	Non-response	Adipocytes	29
+P079	14	Letrozole alone	A	Stable disease	Non-response	B cells	37
+P079	14	Letrozole alone	A	Stable disease	Non-response	Cancer cells	1980
+P079	14	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	181
+P079	14	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	489
+P079	14	Letrozole alone	A	Stable disease	Non-response	Macrophages	74
+P079	14	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	777
+P079	14	Letrozole alone	A	Stable disease	Non-response	Pericytes	66
+P079	14	Letrozole alone	A	Stable disease	Non-response	T cells	59
+P079	180	Letrozole alone	A	Stable disease	Non-response	Adipocytes	107
+P079	180	Letrozole alone	A	Stable disease	Non-response	B cells	34
+P079	180	Letrozole alone	A	Stable disease	Non-response	Cancer cells	1086
+P079	180	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	352
+P079	180	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	750
+P079	180	Letrozole alone	A	Stable disease	Non-response	Macrophages	170
+P079	180	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	2205
+P079	180	Letrozole alone	A	Stable disease	Non-response	Pericytes	61
+P079	180	Letrozole alone	A	Stable disease	Non-response	T cells	87
+P082	0	Letrozole alone	A	Progressive disease	Non-response	Adipocytes	423
+P082	0	Letrozole alone	A	Progressive disease	Non-response	B cells	109
+P082	0	Letrozole alone	A	Progressive disease	Non-response	Cancer cells	4021
+P082	0	Letrozole alone	A	Progressive disease	Non-response	Endothelial cells	363
+P082	0	Letrozole alone	A	Progressive disease	Non-response	Fibroblasts	441
+P082	0	Letrozole alone	A	Progressive disease	Non-response	Macrophages	199
+P082	0	Letrozole alone	A	Progressive disease	Non-response	Normal epithelial cells	144
+P082	0	Letrozole alone	A	Progressive disease	Non-response	Pericytes	114
+P082	0	Letrozole alone	A	Progressive disease	Non-response	T cells	299
+P082	14	Letrozole alone	A	Progressive disease	Non-response	Adipocytes	7
+P082	14	Letrozole alone	A	Progressive disease	Non-response	B cells	9
+P082	14	Letrozole alone	A	Progressive disease	Non-response	Cancer cells	610
+P082	14	Letrozole alone	A	Progressive disease	Non-response	Endothelial cells	437
+P082	14	Letrozole alone	A	Progressive disease	Non-response	Fibroblasts	295
+P082	14	Letrozole alone	A	Progressive disease	Non-response	Macrophages	32
+P082	14	Letrozole alone	A	Progressive disease	Non-response	Normal epithelial cells	138
+P082	14	Letrozole alone	A	Progressive disease	Non-response	Pericytes	152
+P082	14	Letrozole alone	A	Progressive disease	Non-response	T cells	40
+P082	180	Letrozole alone	A	Progressive disease	Non-response	Adipocytes	297
+P082	180	Letrozole alone	A	Progressive disease	Non-response	B cells	4
+P082	180	Letrozole alone	A	Progressive disease	Non-response	Cancer cells	92
+P082	180	Letrozole alone	A	Progressive disease	Non-response	Endothelial cells	340
+P082	180	Letrozole alone	A	Progressive disease	Non-response	Fibroblasts	98
+P082	180	Letrozole alone	A	Progressive disease	Non-response	Macrophages	16
+P082	180	Letrozole alone	A	Progressive disease	Non-response	Normal epithelial cells	64
+P082	180	Letrozole alone	A	Progressive disease	Non-response	Pericytes	99
+P082	180	Letrozole alone	A	Progressive disease	Non-response	T cells	12
+P083	0	Combination ribociclib	B	Partial response	Response	Adipocytes	22
+P083	0	Combination ribociclib	B	Partial response	Response	B cells	5
+P083	0	Combination ribociclib	B	Partial response	Response	Cancer cells	4288
+P083	0	Combination ribociclib	B	Partial response	Response	Endothelial cells	360
+P083	0	Combination ribociclib	B	Partial response	Response	Fibroblasts	289
+P083	0	Combination ribociclib	B	Partial response	Response	Macrophages	29
+P083	0	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	6
+P083	0	Combination ribociclib	B	Partial response	Response	Pericytes	285
+P083	0	Combination ribociclib	B	Partial response	Response	T cells	23
+P083	14	Combination ribociclib	B	Partial response	Response	Adipocytes	3
+P083	14	Combination ribociclib	B	Partial response	Response	B cells	7
+P083	14	Combination ribociclib	B	Partial response	Response	Cancer cells	3591
+P083	14	Combination ribociclib	B	Partial response	Response	Endothelial cells	557
+P083	14	Combination ribociclib	B	Partial response	Response	Fibroblasts	526
+P083	14	Combination ribociclib	B	Partial response	Response	Macrophages	76
+P083	14	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	25
+P083	14	Combination ribociclib	B	Partial response	Response	Pericytes	258
+P083	14	Combination ribociclib	B	Partial response	Response	T cells	39
+P083	180	Combination ribociclib	B	Partial response	Response	Adipocytes	61
+P083	180	Combination ribociclib	B	Partial response	Response	B cells	8
+P083	180	Combination ribociclib	B	Partial response	Response	Cancer cells	3114
+P083	180	Combination ribociclib	B	Partial response	Response	Endothelial cells	416
+P083	180	Combination ribociclib	B	Partial response	Response	Fibroblasts	137
+P083	180	Combination ribociclib	B	Partial response	Response	Macrophages	38
+P083	180	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	112
+P083	180	Combination ribociclib	B	Partial response	Response	Pericytes	98
+P083	180	Combination ribociclib	B	Partial response	Response	T cells	42
+P085	0	Combination ribociclib	B	Partial response	Response	B cells	2
+P085	0	Combination ribociclib	B	Partial response	Response	Cancer cells	2293
+P085	0	Combination ribociclib	B	Partial response	Response	Endothelial cells	212
+P085	0	Combination ribociclib	B	Partial response	Response	Fibroblasts	687
+P085	0	Combination ribociclib	B	Partial response	Response	Macrophages	116
+P085	0	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	28
+P085	0	Combination ribociclib	B	Partial response	Response	Pericytes	114
+P085	0	Combination ribociclib	B	Partial response	Response	T cells	39
+P085	14	Combination ribociclib	B	Partial response	Response	B cells	306
+P085	14	Combination ribociclib	B	Partial response	Response	Cancer cells	2445
+P085	14	Combination ribociclib	B	Partial response	Response	Endothelial cells	93
+P085	14	Combination ribociclib	B	Partial response	Response	Fibroblasts	588
+P085	14	Combination ribociclib	B	Partial response	Response	Macrophages	79
+P085	14	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	52
+P085	14	Combination ribociclib	B	Partial response	Response	Pericytes	38
+P085	14	Combination ribociclib	B	Partial response	Response	T cells	138
+P085	180	Combination ribociclib	B	Partial response	Response	Adipocytes	46
+P085	180	Combination ribociclib	B	Partial response	Response	B cells	335
+P085	180	Combination ribociclib	B	Partial response	Response	Cancer cells	48
+P085	180	Combination ribociclib	B	Partial response	Response	Endothelial cells	202
+P085	180	Combination ribociclib	B	Partial response	Response	Fibroblasts	387
+P085	180	Combination ribociclib	B	Partial response	Response	Macrophages	349
+P085	180	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	1052
+P085	180	Combination ribociclib	B	Partial response	Response	Pericytes	52
+P085	180	Combination ribociclib	B	Partial response	Response	T cells	178
+P089	0	Letrozole alone	A	Progressive disease	Non-response	Adipocytes	7
+P089	0	Letrozole alone	A	Progressive disease	Non-response	B cells	2
+P089	0	Letrozole alone	A	Progressive disease	Non-response	Cancer cells	456
+P089	0	Letrozole alone	A	Progressive disease	Non-response	Endothelial cells	147
+P089	0	Letrozole alone	A	Progressive disease	Non-response	Fibroblasts	137
+P089	0	Letrozole alone	A	Progressive disease	Non-response	Macrophages	44
+P089	0	Letrozole alone	A	Progressive disease	Non-response	Normal epithelial cells	859
+P089	0	Letrozole alone	A	Progressive disease	Non-response	Pericytes	38
+P089	0	Letrozole alone	A	Progressive disease	Non-response	T cells	49
+P089	14	Letrozole alone	A	Progressive disease	Non-response	Adipocytes	10
+P089	14	Letrozole alone	A	Progressive disease	Non-response	B cells	7
+P089	14	Letrozole alone	A	Progressive disease	Non-response	Cancer cells	79
+P089	14	Letrozole alone	A	Progressive disease	Non-response	Endothelial cells	98
+P089	14	Letrozole alone	A	Progressive disease	Non-response	Fibroblasts	74
+P089	14	Letrozole alone	A	Progressive disease	Non-response	Macrophages	20
+P089	14	Letrozole alone	A	Progressive disease	Non-response	Normal epithelial cells	235
+P089	14	Letrozole alone	A	Progressive disease	Non-response	Pericytes	20
+P089	14	Letrozole alone	A	Progressive disease	Non-response	T cells	15
+P089	180	Letrozole alone	A	Progressive disease	Non-response	Adipocytes	13
+P089	180	Letrozole alone	A	Progressive disease	Non-response	B cells	14
+P089	180	Letrozole alone	A	Progressive disease	Non-response	Cancer cells	113
+P089	180	Letrozole alone	A	Progressive disease	Non-response	Endothelial cells	330
+P089	180	Letrozole alone	A	Progressive disease	Non-response	Fibroblasts	169
+P089	180	Letrozole alone	A	Progressive disease	Non-response	Macrophages	88
+P089	180	Letrozole alone	A	Progressive disease	Non-response	Normal epithelial cells	451
+P089	180	Letrozole alone	A	Progressive disease	Non-response	Pericytes	22
+P089	180	Letrozole alone	A	Progressive disease	Non-response	T cells	9
+P090	0	Letrozole alone	A	Partial response	Response	Cancer cells	2368
+P090	0	Letrozole alone	A	Partial response	Response	Endothelial cells	163
+P090	0	Letrozole alone	A	Partial response	Response	Fibroblasts	805
+P090	0	Letrozole alone	A	Partial response	Response	Macrophages	24
+P090	0	Letrozole alone	A	Partial response	Response	Normal epithelial cells	92
+P090	0	Letrozole alone	A	Partial response	Response	Pericytes	66
+P090	0	Letrozole alone	A	Partial response	Response	T cells	9
+P090	14	Letrozole alone	A	Partial response	Response	Adipocytes	13
+P090	14	Letrozole alone	A	Partial response	Response	B cells	7
+P090	14	Letrozole alone	A	Partial response	Response	Cancer cells	2344
+P090	14	Letrozole alone	A	Partial response	Response	Endothelial cells	206
+P090	14	Letrozole alone	A	Partial response	Response	Fibroblasts	1646
+P090	14	Letrozole alone	A	Partial response	Response	Macrophages	370
+P090	14	Letrozole alone	A	Partial response	Response	Normal epithelial cells	115
+P090	14	Letrozole alone	A	Partial response	Response	Pericytes	144
+P090	14	Letrozole alone	A	Partial response	Response	T cells	127
+P090	180	Letrozole alone	A	Partial response	Response	Adipocytes	318
+P090	180	Letrozole alone	A	Partial response	Response	B cells	152
+P090	180	Letrozole alone	A	Partial response	Response	Cancer cells	10
+P090	180	Letrozole alone	A	Partial response	Response	Endothelial cells	347
+P090	180	Letrozole alone	A	Partial response	Response	Fibroblasts	516
+P090	180	Letrozole alone	A	Partial response	Response	Macrophages	161
+P090	180	Letrozole alone	A	Partial response	Response	Normal epithelial cells	50
+P090	180	Letrozole alone	A	Partial response	Response	Pericytes	130
+P090	180	Letrozole alone	A	Partial response	Response	T cells	158
+P092	0	Letrozole alone	A	Partial response	Response	B cells	8
+P092	0	Letrozole alone	A	Partial response	Response	Cancer cells	2438
+P092	0	Letrozole alone	A	Partial response	Response	Endothelial cells	160
+P092	0	Letrozole alone	A	Partial response	Response	Fibroblasts	1331
+P092	0	Letrozole alone	A	Partial response	Response	Macrophages	402
+P092	0	Letrozole alone	A	Partial response	Response	Normal epithelial cells	47
+P092	0	Letrozole alone	A	Partial response	Response	Pericytes	75
+P092	0	Letrozole alone	A	Partial response	Response	T cells	64
+P092	14	Letrozole alone	A	Partial response	Response	Adipocytes	44
+P092	14	Letrozole alone	A	Partial response	Response	B cells	95
+P092	14	Letrozole alone	A	Partial response	Response	Cancer cells	966
+P092	14	Letrozole alone	A	Partial response	Response	Endothelial cells	246
+P092	14	Letrozole alone	A	Partial response	Response	Fibroblasts	785
+P092	14	Letrozole alone	A	Partial response	Response	Macrophages	103
+P092	14	Letrozole alone	A	Partial response	Response	Normal epithelial cells	175
+P092	14	Letrozole alone	A	Partial response	Response	Pericytes	69
+P092	14	Letrozole alone	A	Partial response	Response	T cells	77
+P092	180	Letrozole alone	A	Partial response	Response	Adipocytes	62
+P092	180	Letrozole alone	A	Partial response	Response	B cells	220
+P092	180	Letrozole alone	A	Partial response	Response	Cancer cells	476
+P092	180	Letrozole alone	A	Partial response	Response	Endothelial cells	222
+P092	180	Letrozole alone	A	Partial response	Response	Fibroblasts	499
+P092	180	Letrozole alone	A	Partial response	Response	Macrophages	100
+P092	180	Letrozole alone	A	Partial response	Response	Normal epithelial cells	37
+P092	180	Letrozole alone	A	Partial response	Response	Pericytes	51
+P092	180	Letrozole alone	A	Partial response	Response	T cells	221
+P096	0	Letrozole alone	A	Partial response	Response	Adipocytes	212
+P096	0	Letrozole alone	A	Partial response	Response	B cells	9
+P096	0	Letrozole alone	A	Partial response	Response	Cancer cells	1048
+P096	0	Letrozole alone	A	Partial response	Response	Endothelial cells	202
+P096	0	Letrozole alone	A	Partial response	Response	Fibroblasts	389
+P096	0	Letrozole alone	A	Partial response	Response	Macrophages	731
+P096	0	Letrozole alone	A	Partial response	Response	Normal epithelial cells	85
+P096	0	Letrozole alone	A	Partial response	Response	Pericytes	79
+P096	0	Letrozole alone	A	Partial response	Response	T cells	241
+P096	14	Letrozole alone	A	Partial response	Response	Adipocytes	32
+P096	14	Letrozole alone	A	Partial response	Response	B cells	35
+P096	14	Letrozole alone	A	Partial response	Response	Cancer cells	1359
+P096	14	Letrozole alone	A	Partial response	Response	Endothelial cells	110
+P096	14	Letrozole alone	A	Partial response	Response	Fibroblasts	237
+P096	14	Letrozole alone	A	Partial response	Response	Macrophages	277
+P096	14	Letrozole alone	A	Partial response	Response	Normal epithelial cells	63
+P096	14	Letrozole alone	A	Partial response	Response	Pericytes	45
+P096	14	Letrozole alone	A	Partial response	Response	T cells	918
+P096	180	Letrozole alone	A	Partial response	Response	Adipocytes	69
+P096	180	Letrozole alone	A	Partial response	Response	B cells	7
+P096	180	Letrozole alone	A	Partial response	Response	Cancer cells	3184
+P096	180	Letrozole alone	A	Partial response	Response	Endothelial cells	351
+P096	180	Letrozole alone	A	Partial response	Response	Fibroblasts	395
+P096	180	Letrozole alone	A	Partial response	Response	Macrophages	89
+P096	180	Letrozole alone	A	Partial response	Response	Normal epithelial cells	248
+P096	180	Letrozole alone	A	Partial response	Response	Pericytes	106
+P096	180	Letrozole alone	A	Partial response	Response	T cells	43
+P097	0	Letrozole alone	A	Stable disease	Non-response	Adipocytes	28
+P097	0	Letrozole alone	A	Stable disease	Non-response	B cells	23
+P097	0	Letrozole alone	A	Stable disease	Non-response	Cancer cells	425
+P097	0	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	223
+P097	0	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	550
+P097	0	Letrozole alone	A	Stable disease	Non-response	Macrophages	103
+P097	0	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	1927
+P097	0	Letrozole alone	A	Stable disease	Non-response	Pericytes	92
+P097	0	Letrozole alone	A	Stable disease	Non-response	T cells	193
+P097	14	Letrozole alone	A	Stable disease	Non-response	Adipocytes	10
+P097	14	Letrozole alone	A	Stable disease	Non-response	B cells	30
+P097	14	Letrozole alone	A	Stable disease	Non-response	Cancer cells	211
+P097	14	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	5
+P097	14	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	24
+P097	14	Letrozole alone	A	Stable disease	Non-response	Macrophages	103
+P097	14	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	14
+P097	14	Letrozole alone	A	Stable disease	Non-response	Pericytes	1
+P097	14	Letrozole alone	A	Stable disease	Non-response	T cells	260
+P097	180	Letrozole alone	A	Stable disease	Non-response	Adipocytes	10
+P097	180	Letrozole alone	A	Stable disease	Non-response	B cells	25
+P097	180	Letrozole alone	A	Stable disease	Non-response	Cancer cells	950
+P097	180	Letrozole alone	A	Stable disease	Non-response	Endothelial cells	210
+P097	180	Letrozole alone	A	Stable disease	Non-response	Fibroblasts	673
+P097	180	Letrozole alone	A	Stable disease	Non-response	Macrophages	150
+P097	180	Letrozole alone	A	Stable disease	Non-response	Normal epithelial cells	297
+P097	180	Letrozole alone	A	Stable disease	Non-response	Pericytes	105
+P097	180	Letrozole alone	A	Stable disease	Non-response	T cells	136
+P100	0	Combination ribociclib	B	Partial response	Response	B cells	2
+P100	0	Combination ribociclib	B	Partial response	Response	Cancer cells	3754
+P100	0	Combination ribociclib	B	Partial response	Response	Endothelial cells	62
+P100	0	Combination ribociclib	B	Partial response	Response	Fibroblasts	650
+P100	0	Combination ribociclib	B	Partial response	Response	Macrophages	144
+P100	0	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	29
+P100	0	Combination ribociclib	B	Partial response	Response	Pericytes	24
+P100	0	Combination ribociclib	B	Partial response	Response	T cells	49
+P100	14	Combination ribociclib	B	Partial response	Response	B cells	1
+P100	14	Combination ribociclib	B	Partial response	Response	Cancer cells	4685
+P100	14	Combination ribociclib	B	Partial response	Response	Endothelial cells	112
+P100	14	Combination ribociclib	B	Partial response	Response	Fibroblasts	2206
+P100	14	Combination ribociclib	B	Partial response	Response	Macrophages	590
+P100	14	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	108
+P100	14	Combination ribociclib	B	Partial response	Response	Pericytes	61
+P100	14	Combination ribociclib	B	Partial response	Response	T cells	36
+P100	180	Combination ribociclib	B	Partial response	Response	B cells	6
+P100	180	Combination ribociclib	B	Partial response	Response	Cancer cells	369
+P100	180	Combination ribociclib	B	Partial response	Response	Endothelial cells	262
+P100	180	Combination ribociclib	B	Partial response	Response	Fibroblasts	1379
+P100	180	Combination ribociclib	B	Partial response	Response	Macrophages	267
+P100	180	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	77
+P100	180	Combination ribociclib	B	Partial response	Response	Pericytes	155
+P100	180	Combination ribociclib	B	Partial response	Response	T cells	57
+P105	0	Combination ribociclib	B	Partial response	Response	Adipocytes	8
+P105	0	Combination ribociclib	B	Partial response	Response	B cells	15
+P105	0	Combination ribociclib	B	Partial response	Response	Cancer cells	3342
+P105	0	Combination ribociclib	B	Partial response	Response	Endothelial cells	35
+P105	0	Combination ribociclib	B	Partial response	Response	Fibroblasts	103
+P105	0	Combination ribociclib	B	Partial response	Response	Macrophages	126
+P105	0	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	151
+P105	0	Combination ribociclib	B	Partial response	Response	Pericytes	67
+P105	0	Combination ribociclib	B	Partial response	Response	T cells	100
+P105	14	Combination ribociclib	B	Partial response	Response	Adipocytes	63
+P105	14	Combination ribociclib	B	Partial response	Response	B cells	44
+P105	14	Combination ribociclib	B	Partial response	Response	Cancer cells	1179
+P105	14	Combination ribociclib	B	Partial response	Response	Endothelial cells	47
+P105	14	Combination ribociclib	B	Partial response	Response	Fibroblasts	136
+P105	14	Combination ribociclib	B	Partial response	Response	Macrophages	87
+P105	14	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	314
+P105	14	Combination ribociclib	B	Partial response	Response	Pericytes	18
+P105	14	Combination ribociclib	B	Partial response	Response	T cells	306
+P105	180	Combination ribociclib	B	Partial response	Response	Adipocytes	435
+P105	180	Combination ribociclib	B	Partial response	Response	B cells	62
+P105	180	Combination ribociclib	B	Partial response	Response	Cancer cells	660
+P105	180	Combination ribociclib	B	Partial response	Response	Endothelial cells	365
+P105	180	Combination ribociclib	B	Partial response	Response	Fibroblasts	310
+P105	180	Combination ribociclib	B	Partial response	Response	Macrophages	137
+P105	180	Combination ribociclib	B	Partial response	Response	Normal epithelial cells	1503
+P105	180	Combination ribociclib	B	Partial response	Response	Pericytes	62
+P105	180	Combination ribociclib	B	Partial response	Response	T cells	216
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	Adipocytes	103
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	B cells	29
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	Cancer cells	2972
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	Endothelial cells	306
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	Fibroblasts	418
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	Macrophages	88
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	Normal epithelial cells	257
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	Pericytes	82
+P110	0	Combination ribociclib	B	Rebound disease	Non-response	T cells	142
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	Adipocytes	44
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	B cells	49
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	Cancer cells	708
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	Endothelial cells	221
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	Fibroblasts	794
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	Macrophages	1260
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	Normal epithelial cells	152
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	Pericytes	151
+P110	14	Combination ribociclib	B	Rebound disease	Non-response	T cells	482
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	Adipocytes	129
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	B cells	34
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	Cancer cells	18
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	Endothelial cells	549
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	Fibroblasts	812
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	Macrophages	172
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	Normal epithelial cells	21
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	Pericytes	169
+P110	180	Combination ribociclib	B	Rebound disease	Non-response	T cells	165
+P111	0	Letrozole alone	A	Sustained response	Response	B cells	6
+P111	0	Letrozole alone	A	Sustained response	Response	Cancer cells	4789
+P111	0	Letrozole alone	A	Sustained response	Response	Endothelial cells	16
+P111	0	Letrozole alone	A	Sustained response	Response	Fibroblasts	14
+P111	0	Letrozole alone	A	Sustained response	Response	Macrophages	547
+P111	0	Letrozole alone	A	Sustained response	Response	Normal epithelial cells	16
+P111	0	Letrozole alone	A	Sustained response	Response	Pericytes	6
+P111	0	Letrozole alone	A	Sustained response	Response	T cells	31
+P111	14	Letrozole alone	A	Sustained response	Response	B cells	8
+P111	14	Letrozole alone	A	Sustained response	Response	Cancer cells	4871
+P111	14	Letrozole alone	A	Sustained response	Response	Endothelial cells	7
+P111	14	Letrozole alone	A	Sustained response	Response	Fibroblasts	6
+P111	14	Letrozole alone	A	Sustained response	Response	Macrophages	735
+P111	14	Letrozole alone	A	Sustained response	Response	Normal epithelial cells	133
+P111	14	Letrozole alone	A	Sustained response	Response	Pericytes	4
+P111	14	Letrozole alone	A	Sustained response	Response	T cells	32
+P111	180	Letrozole alone	A	Sustained response	Response	Cancer cells	302
+P111	180	Letrozole alone	A	Sustained response	Response	Endothelial cells	4
+P111	180	Letrozole alone	A	Sustained response	Response	Fibroblasts	4
+P111	180	Letrozole alone	A	Sustained response	Response	Macrophages	1
+P111	180	Letrozole alone	A	Sustained response	Response	Normal epithelial cells	41
+P111	180	Letrozole alone	A	Sustained response	Response	Pericytes	3

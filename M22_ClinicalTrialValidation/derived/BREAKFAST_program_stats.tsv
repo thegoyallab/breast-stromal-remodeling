@@ -1,0 +1,4 @@
+lineage	program	n	median_score_change	p	FDR
+Fibroblast	fibroblast_matrix_contractile	10	0.18740444191461586	0.193359375	0.3486328125
+Perivascular	mural_matrix_contractile	10	-0.0697078715767328	0.76953125	0.76953125
+Endothelial	endothelial_NOTCH_ECM	10	-0.3610675235060775	0.232421875	0.3486328125

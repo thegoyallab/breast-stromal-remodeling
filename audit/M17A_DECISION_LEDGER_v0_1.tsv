@@ -1,0 +1,14 @@
+analysis	gate	decision	manuscript_action
+Danenberg_is_perivascular_semantics	CORRECTION_REQUIRED	Spatial vessel-contact flag, not mural lineage	Define explicitly; stop calling it a cell-lineage gate
+Mural_like_definition	LOCKED	Myofibroblasts + Myofibroblasts PDPN+	Use only as IMC mural-like proxy; not pericyte identity
+Spatial_detachment_primary	FAIL	Normal-vs-tumour P=0.055; FDR6=0.304	Do not add detachment claim
+Spatial_detachment_graph	FAIL	Normal-vs-tumour P=0.875; FDR6=0.875	Do not add detachment claim
+METABRIC_primary_survival	FAIL	Discovery adjusted HR=1.104 P=0.231; validation HR=0.991 P=0.943	Do not add prognostic claim
+METABRIC_graph_survival	FAIL	Discovery HR=0.952 P=0.576; validation HR=0.828 P=0.197	Do not add prognostic claim
+METABRIC_contractile_survival	FAIL	Discovery HR=1.250 P=0.146; validation HR=1.461 P=0.171	Do not add prognostic claim
+CPTAC_phospho_module	PASS	45 testable adjusted sites; 37 FDR05; 12 genes	Suitable supplementary mechanistic layer
+IMC_myofibroblast_SMA_tumour	PASS	Delta +0.681; FDR15 1.68e-5	Use as corrected contractile stromal validation
+IMC_myofibroblast_SMA_DCIS	PASS	Delta +1.034; FDR15 0.00523	Use as cross-sectional pre-invasive context
+IMC_myofibroblast_CAV1_tumour	FAIL	Delta -0.099; FDR15 0.153	Do not claim mural-cell-intrinsic CAV1 loss
+IMC_myofibroblast_CAV1_DCIS	FAIL	Delta -0.068; FDR15 0.508	Do not claim mural-cell-intrinsic CAV1 loss
+Vessel_contact_CAV1	RETAIN_WITH_SEMANTIC_FIX	Historical reduction remains valid for vessel-contact compartment	Separate spatial-compartment evidence from mural-like phenotype
