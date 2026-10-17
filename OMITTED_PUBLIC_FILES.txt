@@ -1,0 +1,5 @@
+The following reviewer-package derived files are intentionally not redistributed in the public software release:
+M22_ClinicalTrialValidation/derived/GSE211434_Reed_state_mapping.tsv.gz
+M22_ClinicalTrialValidation/derived/BREAKFAST_Reed_state_mapping.tsv.gz
+
+Reason: they are cell-level derived tables from third-party public datasets and are not required to execute or audit the manuscript-level statistical conclusions. Users should regenerate them from the cited source accessions using the supplied scripts.

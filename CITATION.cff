@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and the archived v0.98 software release."
+title: "Analysis code for Reference-anchored decomposition of stromal redistribution and reprogramming in invasive breast cancer"
+type: software
+version: "0.98"
+date-released: 2026-10-17
+license: BSD-3-Clause
+authors:
+  - family-names: Kumari
+    given-names: Sudhanshu
+  - family-names: Bage
+    given-names: Saloni
+  - family-names: Yadav
+    given-names: Arpana
+  - family-names: Gaur
+    given-names: Kritika
+  - family-names: Dadrwal
+    given-names: Sunita
+  - family-names: Saini
+    given-names: Mahesh
+  - family-names: Sawant
+    given-names: Devesh M.
+  - family-names: Brünnert
+    given-names: Daniela
+  - family-names: Goyal
+    given-names: Pankaj
+repository-code: "TBD"
+url: "TBD"
+identifiers:
+  - type: doi
+    value: "TBD"
+    description: "Permanent DOI for the archived v0.98 release"

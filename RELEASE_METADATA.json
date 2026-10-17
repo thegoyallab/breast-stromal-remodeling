@@ -1,0 +1,16 @@
+{
+  "release_version": "0.98",
+  "git_tag": "v0.98",
+  "release_date": "2026-10-17",
+  "manuscript_title": "Reference-anchored decomposition of stromal redistribution and reprogramming in invasive breast cancer",
+  "license": "BSD-3-Clause",
+  "source": "Frozen reviewer-code archive from StageM24_EditorialFinalization_v0_98",
+  "public_repository_url": "TBD",
+  "archive_doi": "TBD",
+  "omitted_public_files": [
+    "M22_ClinicalTrialValidation/derived/GSE211434_Reed_state_mapping.tsv.gz",
+    "M22_ClinicalTrialValidation/derived/BREAKFAST_Reed_state_mapping.tsv.gz"
+  ],
+  "omission_reason": "Cell-level derived tables from third-party public datasets; regenerate from cited source accessions using supplied scripts.",
+  "historical_mapper_note": "The original standalone historical fine-state mapping executable was not retained; supplied deterministic reconstruction is explicitly audit/reconstruction code."
+}
